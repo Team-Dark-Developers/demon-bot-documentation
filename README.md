@@ -9,3 +9,5 @@ We have used Wiki feature because it helps to keep the docs more organised and i
 
 
 -----
+
+[Support Server](https://discord.gg/5MredjDjed)
